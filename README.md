@@ -1,5 +1,5 @@
 # 💐 FNP Sales Dashboard — Excel-Based Sales Analytics
-"C:\Users\Lenovo\Desktop\Anjana DA\Excel FNP Project\Dashboard Screenschot.png"
+https://github.com/AnjanaVarun/FNP-Sales-Dashboard/blob/main/Dashboard%20Screenschot.png
 
 ## 📊 Overview
 This project provides an **interactive sales performance dashboard** for *Ferns N Petals (FNP)*, built using **Microsoft Excel**.  
