@@ -1,36 +1,124 @@
-"# FNP-Sales-Dashboard" 
-Project Insights – FNP Sales Dashboard
-Overall Performance
-•	The analysis of FNP’s 2023 order data provides a comprehensive view of customer purchasing patterns, product performance, and delivery efficiency.
-•	The total revenue reflects strong seasonal demand peaks, showing clear sales spikes during festive occasions such as Valentine’s Day, Raksha Bandhan, and Diwali.
-________________________________________
-Key Insights
-1.	Total Revenue:
-	Overall revenue indicates consistent business performance with clear demand concentration in certain high-traffic months.
-2.	Average Order and Delivery Time:
-	The average delivery time suggests an efficient fulfillment process; however, occasional delays may occur during peak festivals or promotional periods.
-3.	Monthly Sales Performance:
-	Sales follow a seasonal trend, peaking during festive and gifting months (e.g., February, May, August, December).
-	A noticeable dip in off-season months highlights an opportunity for running off-season marketing campaigns.
-4.	Top Products by Revenue:
-	Cakes, personalized gifts, and flower combos contribute the highest share of revenue.
-	Bundled or combo products outperform individual SKUs, suggesting that gifting convenience drives higher order value.
-5.	Customer Spending Analysis:
-	Average customer spend increases significantly during festivals and special occasions, showing strong sensitivity to event-based promotions.
-6.	Sales by Top 5 Products:
-  Top 5 products contribute a disproportionate share of revenue, showing strong product concentration.
-  Introducing variety or upselling related products could diversify sales further.
-7.	Top 10 Cities by Orders:
-	Metro cities such as Bengaluru, Delhi, Mumbai, Hyderabad, and Pune dominate the order volume.
-	Tier-2 cities show growing potential but may benefit from better delivery networks and localized promotions.
-8.	Order Quantity vs Delivery Time:
-	Slight correlation indicates that bulk orders may lead to marginally longer delivery times, but the logistics process remains largely efficient.
-9.	Revenue Comparison Between Occasions:
-	Valentine’s Day and Mother’s Day show the highest revenue among occasions, confirming that emotional gifting events are the strongest sales drivers.
-10.	Product Popularity by Occasion:
-	Flowers and cakes dominate romantic and birthday occasions, whereas personalized gifts lead during festivals and family-oriented events.
-________________________________________
-Conclusion
-The analysis highlights that FNP’s sales are heavily occasion-driven, with high-performing product categories centered around cakes, flowers, and personalized gifts.
-Customer purchasing behavior reflects event-based demand spikes, especially in major metros. Strengthening delivery operations and running targeted marketing campaigns in Tier-2 cities can unlock additional growth.
-________________________________________
+# 💐 FNP Sales Dashboard — Excel-Based Sales Analytics
+
+![Dashboard Preview](./images/fnp_dashboard.png)
+
+## 📊 Overview
+This project provides an **interactive sales performance dashboard** for *Ferns N Petals (FNP)*, built using **Microsoft Excel**.  
+It analyzes **2023 order data** to uncover insights on customer purchasing behavior, product performance, seasonal trends, and delivery efficiency.
+
+The dashboard helps business teams track KPIs such as **Total Revenue, Average Customer Spending, Delivery Timelines**, and category-level performance.
+
+---
+
+## 🧰 Tools & Skills Used
+- **Microsoft Excel**
+  - Power Query (Data Cleaning)
+  - Pivot Tables
+  - Charts & Slicers
+  - KPI Cards
+- Data Analysis & Visualization
+- Business Insight Generation
+- FMCG / E-Commerce Data Interpretation
+
+---
+
+## 📈 Dashboard KPIs
+| Metric | Value |
+|--------|--------|
+| 🕒 Average Delivery Timeline | 5.53 Days |
+| 💰 Total Revenue | ₹35,20,984 |
+| 👥 Avg. Customer Spending | ₹3,520 |
+| 🔄 Correlation | Order Qty & Delivery Time are independent |
+
+---
+
+## 🔍 Key Insights
+
+### 🏆 1. Overall Performance
+- FNP’s 2023 data reveals strong **seasonal demand spikes** during festivals and gifting occasions.  
+- Revenue shows **steady growth with peak months around Valentine’s Day, Raksha Bandhan, and Diwali**.
+
+---
+
+### 💰 2. Total Revenue
+- Consistent business performance with concentrated sales in high-traffic months.  
+- Clear **seasonality pattern** in gifting-related orders.
+
+---
+
+### 🚚 3. Delivery Efficiency
+- **Average delivery time:** 5.5 days — efficient fulfillment overall.  
+- Minor delays observed during high-volume festive periods.
+
+---
+
+### 🗓️ 4. Monthly Sales Trend
+- Peaks during **February, May, August, and December**.  
+- Off-season months show opportunity for **marketing campaigns and promotions**.
+
+---
+
+### 🎁 5. Top Products by Revenue
+- **Cakes, personalized gifts, and flower combos** generate the most revenue.  
+- **Combo/bundled products** outperform single SKUs, indicating that gifting convenience drives higher value orders.
+
+---
+
+### 💳 6. Customer Spending Behavior
+- Customer spend spikes during **festivals and emotional gifting occasions**.  
+- Event-based promotions are highly effective in driving AOV (Average Order Value).
+
+---
+
+### 🏙️ 7. Top 10 Cities by Orders
+- Major metros (**Bengaluru, Delhi, Mumbai, Hyderabad, Pune**) dominate order volumes.  
+- **Tier-2 cities** show emerging potential for future marketing expansion.
+
+---
+
+### ⏰ 8. Order Quantity vs Delivery Time
+- Slight correlation observed — **bulk orders** take slightly longer but logistics efficiency is well maintained.
+
+---
+
+### 🎉 9. Revenue by Occasion
+- **Valentine’s Day** and **Mother’s Day** drive the highest sales volumes.  
+- Emotional gifting events remain the strongest demand drivers.
+
+---
+
+### 🌸 10. Product Popularity by Occasion
+- **Flowers & Cakes** dominate romantic and birthday occasions.  
+- **Personalized gifts** lead during family and festival events.
+
+---
+
+## 🧩 Conclusion
+FNP’s business is **occasion-driven**, with top categories centered around **cakes, flowers, and personalized gifts**.  
+Data reveals:
+- Strong potential for **Tier-2 city growth**
+- Opportunity to **improve off-season engagement**
+- Consistent logistics and fulfillment efficiency
+
+Strategically leveraging **data-driven promotions** and **regional marketing** can unlock further growth and operational excellence.
+
+---
+
+## 📂 Repository Contents
+| File | Description |
+|------|--------------|
+| `FNP_Sales_Dashboard.xlsx` | Interactive Excel dashboard |
+| `images/fnp_dashboard.png` | Dashboard screenshot |
+| `README.md` | Project documentation and insights |
+
+---
+
+## 👩‍💻 Author
+**Anjana Krishnamoorthy**  
+Data Analyst | FMCG R&D Professional | Excel & Power BI Enthusiast  
+ anjanakrishnamoorthy14@gmail.com
+ [LinkedIn](https://www.linkedin.com/in/anjana-krishnamoorthy/)
+
+---
+
+⭐ *If you found this project interesting, consider starring the repository to support my work!*
